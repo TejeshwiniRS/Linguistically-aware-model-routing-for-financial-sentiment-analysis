@@ -1,2 +1,3 @@
 # Linguistically-aware-model-routing-for-financial-sentiment-analysis
-The core problem is to design a deployment-aware financial sentiment classification framework that selectively routes inputs between fine-tuned small and large models to balance accuracy, latency, and computational cost.
+Financial institutions require compute cost-efficient sentiment analysis systems to process large volumes of earnings calls, financial disclosures, and market news. While LLMs achieve strong predictive performance on financial sentiment tasks, their computational and monetary costs make full-scale deployment impractical. Smaller transformer models are significantly more efficient, but exhibit systematic failures on linguistically complex financial text. 
+**The core problem is to design a deployment-aware financial sentiment classification framework that selectively routes inputs between fine-tuned small and large models to balance accuracy, latency, and computational cost.**
