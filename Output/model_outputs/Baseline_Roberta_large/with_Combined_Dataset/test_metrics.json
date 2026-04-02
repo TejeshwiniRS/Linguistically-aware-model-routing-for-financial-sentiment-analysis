@@ -1,0 +1,8 @@
+{
+  "experiment_name": "Baseline 2: Zero-Shot RoBERTa-large - Combined Test Set",
+  "model": "roberta-large-mnli",
+  "setting": "before_finetuning_zeroshot",
+  "accuracy": 0.5751245380041781,
+  "macro_f1": 0.5375925111449819,
+  "num_examples": 6223
+}
