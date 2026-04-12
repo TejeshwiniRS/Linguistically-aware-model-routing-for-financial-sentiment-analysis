@@ -1,3 +1,5 @@
 .env
+.venv/
+finnlp/
 .DS_Store
 **/.DS_Store
