@@ -1,0 +1,5 @@
+Strategy,Accuracy,Weighted F1,Large-Model Usage,Avg Cost (units),Cost Reduction vs Large-Only
+Small only (TinyBERT),0.7964,0.7974,0.00%,1.00,96.00%
+Large only (RoBERTa),0.8764,0.8763,100.00%,25.00,0.00%
+Router (Logistic Regression),0.8596,0.8595,33.68%,9.08,63.67%
+Oracle (upper bound),0.9197,0.9197,12.33%,3.96,84.17%
