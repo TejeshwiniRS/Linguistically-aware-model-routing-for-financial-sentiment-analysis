@@ -99,7 +99,7 @@ A 70/15/15 split is used for training, validation, and testing.
 │   ├── 03_large_model_baseline.ipynb
 │   ├── 04_large_model_finetuned.ipynb
 │   ├── 05_router.ipynb
-│   └── 06_router_baselines.ipynb
+│   └── 06_router_baselines
 │
 ├── Output/
 │   ├── baseline_outputs/
